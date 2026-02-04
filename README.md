@@ -1,11 +1,15 @@
 # Bank Account
 
-## Menu
-- Add New Account
-- View Account
-- Update Account
-- Deposit/Withdraw
-- Quit
+## Data Dictionary
+- std::string accountName
+- double initialBal
+- std::string accountHolderName
+- double balance
+- std::string getAccountHolderName()
+- double getBalance()
+- void setAccountHolderName
+- void deposit
+- bool withdraw
 
 ## Description
 This program is used to simulate basic banking operations for multiple accounts. 
